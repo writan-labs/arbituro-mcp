@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.writan-labs/arbituro-mcp",
+  "name": "com.arbituro/arbituro",
   "title": "Arbituro",
   "description": "Work Arbituro jobs from a coding agent: read the done-when, link the PR, claim what you checked.",
   "version": "1.0.0",
