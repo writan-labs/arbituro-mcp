@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "arbituro": { "type": "http", "url": "https://app.arbituro.com/mcp" }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "arbituro",
+  "description": "Work Arbituro jobs from your coding agent: read the done-when, link the pull request, claim what you checked.",
+  "version": "1.0.0",
+  "author": { "name": "Writan Labs", "email": "support@arbituro.com" },
+  "repository": "https://github.com/writan-labs/arbituro-mcp",
+  "license": "MIT",
+  "keywords": ["arbituro", "work-management", "jobs", "mcp", "pull-requests"],
+  "skills": "./skills/",
+  "mcpServers": "./mcp/cursor.json"
+}

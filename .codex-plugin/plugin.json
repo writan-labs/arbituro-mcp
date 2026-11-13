@@ -1,0 +1,24 @@
+{
+  "name": "arbituro",
+  "version": "1.0.0",
+  "description": "Work Arbituro jobs from your coding agent: read the done-when, link the pull request, claim what you checked.",
+  "author": { "name": "Writan Labs", "email": "support@arbituro.com", "url": "https://arbituro.com" },
+  "homepage": "https://arbituro.com",
+  "repository": "https://github.com/writan-labs/arbituro-mcp",
+  "license": "MIT",
+  "keywords": ["arbituro", "work-management", "jobs", "mcp", "pull-requests"],
+  "skills": "./skills/",
+  "mcpServers": "./mcp/codex.json",
+  "interface": {
+    "displayName": "Arbituro",
+    "shortDescription": "Work Arbituro jobs to their done-when",
+    "longDescription": "Read a job's done-when, work on the branch it names, link the pull request and claim what you checked. Every write is under your name, and no tool ticks a clause, merges or finishes a job.",
+    "developerName": "Writan Labs",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://arbituro.com",
+    "privacyPolicyURL": "https://app.arbituro.com/legal/privacy",
+    "termsOfServiceURL": "https://app.arbituro.com/legal/terms",
+    "defaultPrompt": ["Work ARB-12 in Arbituro.", "What is waiting on me in Arbituro?"]
+  }
+}

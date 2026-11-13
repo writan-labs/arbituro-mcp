@@ -1,0 +1,9 @@
+{
+  "name": "arbituro",
+  "version": "1.0.0",
+  "description": "Work Arbituro jobs from your coding agent: read the done-when, link the pull request, claim what you checked.",
+  "mcpServers": {
+    "arbituro": { "httpUrl": "https://app.arbituro.com/mcp" }
+  },
+  "contextFileName": "GEMINI.md"
+}

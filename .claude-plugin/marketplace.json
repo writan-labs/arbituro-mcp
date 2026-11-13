@@ -1,0 +1,12 @@
+{
+  "name": "writan-labs",
+  "description": "Arbituro for coding agents",
+  "owner": { "name": "Writan Labs", "email": "support@arbituro.com" },
+  "plugins": [
+    {
+      "name": "arbituro",
+      "source": "./",
+      "description": "Work Arbituro jobs from your coding agent: read the done-when, link the pull request, claim what you checked."
+    }
+  ]
+}

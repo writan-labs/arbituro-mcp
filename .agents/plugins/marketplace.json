@@ -1,0 +1,12 @@
+{
+  "name": "writan-labs",
+  "interface": { "displayName": "Writan Labs" },
+  "plugins": [
+    {
+      "name": "arbituro",
+      "source": { "source": "local", "path": "./" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}

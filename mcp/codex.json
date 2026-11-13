@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "arbituro": { "type": "streamable-http", "url": "https://app.arbituro.com/mcp" }
+  }
+}
